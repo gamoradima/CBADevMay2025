@@ -1,0 +1,96 @@
+= MetaData.Schema.UId "f8df4aa2-73b8-4aae-975a-a292eaceca46"
+= MetaData.Schema.A2 "UsrRealty"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+= MetaData.Schema.B6 "a0053303-e6ef-4f69-9bba-8e0c24cb5f9d"
+= MetaData.Schema.EG1.UId "35ed072d-b64b-48d9-a321-be185b27409b"
+= MetaData.Schema.EG1.A2 "UsrRealtyEventsProcess"
+= MetaData.Schema.EG1.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+= MetaData.Schema.EG1.B1 []
+= MetaData.Schema.EG1.B3 []
++ MetaData.Schema.EG1.B8 "0.0.0.0"
+= MetaData.Schema.EG1.FJ1 []
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK3 []
+= MetaData.Schema.EG1.BK4 []
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D29 "null"
++ MetaData.Schema.D30 "null"
++ MetaData.Schema.D31 "null"
++ MetaData.Schema.D4 "76a23891-ccdc-4196-a531-1e9dc61d3eea"
++ MetaData.Schema.D2 {
+  "UId": "76a23891-ccdc-4196-a531-1e9dc61d3eea",
+  "A2": "UsrName",
+  "A3": "f8df4aa2-73b8-4aae-975a-a292eaceca46",
+  "A4": "f8df4aa2-73b8-4aae-975a-a292eaceca46",
+  "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E2": 1
+}
++ MetaData.Schema.D2 {
+  "UId": "61675f52-04ad-dd09-28b8-bef397c5b5ed",
+  "A2": "UsrOfferType",
+  "A3": "f8df4aa2-73b8-4aae-975a-a292eaceca46",
+  "A4": "f8df4aa2-73b8-4aae-975a-a292eaceca46",
+  "A5": "ec070758-5396-45e6-9ffb-1c7d881260f8",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "5bedb523-6d84-4e6a-bf61-9475622c7e89",
+  "E2": 1,
+  "E6": true,
+  "E20": true,
+  "E17": "UsrOfferTypeId",
+  "E18": "UsrOfferTypeName"
+}
++ MetaData.Schema.D2 {
+  "UId": "813f9411-855b-b52e-5707-2d9b6e0e433a",
+  "A2": "UsrType",
+  "A3": "f8df4aa2-73b8-4aae-975a-a292eaceca46",
+  "A4": "f8df4aa2-73b8-4aae-975a-a292eaceca46",
+  "A5": "ec070758-5396-45e6-9ffb-1c7d881260f8",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "3d9641fe-fea7-45ed-9a56-fe9ffa969de3",
+  "E2": 1,
+  "E6": true,
+  "E20": true,
+  "E17": "UsrTypeId",
+  "E18": "UsrTypeName"
+}
++ MetaData.Schema.D2 {
+  "UId": "8def1a1d-394a-e546-d3a7-24d934818a24",
+  "A2": "UsrArea",
+  "A3": "f8df4aa2-73b8-4aae-975a-a292eaceca46",
+  "A4": "f8df4aa2-73b8-4aae-975a-a292eaceca46",
+  "A5": "ec070758-5396-45e6-9ffb-1c7d881260f8",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "c0a62b26-fe9b-2f7c-78a9-91cc89ed93a5",
+  "A2": "UsrPrice",
+  "A3": "f8df4aa2-73b8-4aae-975a-a292eaceca46",
+  "A4": "f8df4aa2-73b8-4aae-975a-a292eaceca46",
+  "A5": "ec070758-5396-45e6-9ffb-1c7d881260f8",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","76a23891-ccdc-4196-a531-1e9dc61d3eea","61675f52-04ad-dd09-28b8-bef397c5b5ed","813f9411-855b-b52e-5707-2d9b6e0e433a","8def1a1d-394a-e546-d3a7-24d934818a24","c0a62b26-fe9b-2f7c-78a9-91cc89ed93a5"]
+= MetaData.Schema.D20.A2 "UsrRealtyEvents"
+= MetaData.Schema.D36.A3 "f8df4aa2-73b8-4aae-975a-a292eaceca46"
+= MetaData.Schema.D36.BS1 false
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false
